@@ -1,0 +1,113 @@
+.resort {
+    margin-top: 10px;
+    margin-left: 100px;
+}
+.navber {
+    display: flex;
+}
+.link a {
+    text-decoration: none;
+    color: black;
+     
+}
+
+/* ..... */
+
+.hero {
+    display: flex;
+}
+
+ 
+
+.log {
+    display: flex;
+    margin-top: 10px;
+    margin-left: 300px;
+}
+
+.button {
+    display: flex;
+    margin-top: 10px;
+    margin-left: 50px;
+}
+
+ 
+
+
+.picture img {
+    display: grid;
+    margin-left: 40px;
+}
+
+
+/* carousal */
+
+.color p {
+    color: black;
+}
+
+.color h5 {
+    color: black;
+}
+
+
+/* footer side */
+
+.foter {
+    text-align: center;
+}
+
+.foter h1 {
+    color: aliceblue;
+
+}
+
+.Fotar h3 {
+    color: aliceblue;
+}
+
+.Fotar p {
+    color: aliceblue;
+}
+
+.color {
+    background-color: rgb(60, 60, 60);
+}
+
+ 
+
+.Fotar {
+    display: flex;
+    margin-left: 8%;
+    padding: 0px 50px;
+}
+
+.name h5 {
+    margin-left: 9%;
+    color: aliceblue;
+}
+
+.About h5 {
+    margin-left: 9%;
+}
+
+
+.name a {
+    display: flex;
+    text-decoration: none;
+    padding: 10px;
+    color: rgb(255, 255, 255);
+}
+
+.About a {
+    display: flex;
+    text-decoration: none;
+    padding: 10px;
+    color: rgb(255, 251, 251);
+
+
+}
+
+.About {
+    margin-left: 20%;
+}
